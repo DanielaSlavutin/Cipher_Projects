@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\Caesar Cipher\\",
+  "WorkspaceRootPath": "C:\\Projects\\Caesar Cipher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DD75C15-2787-4385-9654-00F6DA5D88D9}|Caesar Cipher.vcxproj|C:\\Users\\danie\\source\\repos\\Caesar Cipher\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4DD75C15-2787-4385-9654-00F6DA5D88D9}|Caesar Cipher.vcxproj|C:\\Projects\\Caesar Cipher\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4DD75C15-2787-4385-9654-00F6DA5D88D9}|Caesar Cipher.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DD75C15-2787-4385-9654-00F6DA5D88D9}|Caesar Cipher.vcxproj|C:\\Users\\danie\\source\\repos\\Caesar Cipher\\CaesarCip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4DD75C15-2787-4385-9654-00F6DA5D88D9}|Caesar Cipher.vcxproj|C:\\Projects\\Caesar Cipher\\CaesarCip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4DD75C15-2787-4385-9654-00F6DA5D88D9}|Caesar Cipher.vcxproj|solutionrelative:CaesarCip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DD75C15-2787-4385-9654-00F6DA5D88D9}|Caesar Cipher.vcxproj|C:\\Users\\danie\\source\\repos\\Caesar Cipher\\CaesarCip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4DD75C15-2787-4385-9654-00F6DA5D88D9}|Caesar Cipher.vcxproj|C:\\Projects\\Caesar Cipher\\CaesarCip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4DD75C15-2787-4385-9654-00F6DA5D88D9}|Caesar Cipher.vcxproj|solutionrelative:CaesarCip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,29 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 103,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CaesarCip.h",
-              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Caesar Cipher\\CaesarCip.h",
-              "RelativeDocumentMoniker": "CaesarCip.h",
-              "ToolTip": "C:\\Users\\danie\\source\\repos\\Caesar Cipher\\CaesarCip.h",
-              "RelativeToolTip": "CaesarCip.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-26T18:24:15.654Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CaesarCip.cpp",
-              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Caesar Cipher\\CaesarCip.cpp",
+              "DocumentMoniker": "C:\\Projects\\Caesar Cipher\\CaesarCip.cpp",
               "RelativeDocumentMoniker": "CaesarCip.cpp",
-              "ToolTip": "C:\\Users\\danie\\source\\repos\\Caesar Cipher\\CaesarCip.cpp",
+              "ToolTip": "C:\\Projects\\Caesar Cipher\\CaesarCip.cpp",
               "RelativeToolTip": "CaesarCip.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-26T17:35:24.365Z",
               "EditorCaption": ""
@@ -53,14 +41,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Caesar Cipher\\main.cpp",
+              "DocumentMoniker": "C:\\Projects\\Caesar Cipher\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\danie\\source\\repos\\Caesar Cipher\\main.cpp",
+              "ToolTip": "C:\\Projects\\Caesar Cipher\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-26T17:49:00.193Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CaesarCip.h",
+              "DocumentMoniker": "C:\\Projects\\Caesar Cipher\\CaesarCip.h",
+              "RelativeDocumentMoniker": "CaesarCip.h",
+              "ToolTip": "C:\\Projects\\Caesar Cipher\\CaesarCip.h",
+              "RelativeToolTip": "CaesarCip.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T18:24:15.654Z"
             }
           ]
         }
